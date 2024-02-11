@@ -1,4 +1,3 @@
 ## 搜索效果对比
-<video width="320" height="240" controls>
-    <source src="clever-search/300万字单文件搜索对比.mp4" type="video/mp4">
-</video>
+https://github.com/yan42685/shared-assets/assets/41834091/18726080-8d17-4724-8a7f-924fe96add93
+
